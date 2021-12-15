@@ -185,9 +185,6 @@ export class GuiModel {
                             "color": "blue",
                             "search": true,
                             "url": "/activity/:activityKey/friend"
-                            /*"form": {
-                                "form": "FriendForm"
-                            }*/
                         },
                         {
                             "type": "deleteButton",
@@ -301,9 +298,6 @@ export class GuiModel {
                             "search": true,
                             "url": "/friend",
                             "page": "friendsactivitiespage"
-                            /*"form": {
-                                "form": "FriendForm"
-                            }*/
                         },
                     ]
                 },
@@ -430,9 +424,6 @@ export class GuiModel {
                             "search": true,
                             "url": "/location",
                             "page": "locationsummarypage"
-                            /*"form": {
-                                "form": "LocationForm"
-                            }*/
                         },
                     ]
                 },
@@ -485,9 +476,6 @@ export class GuiModel {
                             "search": true,
                             "url": "/activity",
                             "page": "activityfriendspage"
-                            /*"form": {
-                                "form": "ActivityForm"
-                            }*/
                         }   
                     ]
                 }   
